@@ -6,7 +6,7 @@ bio: My research interests include soft robotics, bio-inspired robotics, legged
   robotics, micro-robotics, and robot locomotion.
 interests:
   - Soft Robotics
-  - Bio-Inspired Robotics
+  - Bio-inspired Robotics
   - Legged Robotics
   - Micro-robotics
   - Robot Locomotion
